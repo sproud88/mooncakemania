@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084881241281",
+    "firebase_url": "https://mooncakeproj.firebaseio.com",
+    "project_id": "mooncakeproj",
+    "storage_bucket": "mooncakeproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084881241281:android:2cec633a14e1a6af8bc040",
+        "android_client_info": {
+          "package_name": "com.Sproud.Mooncake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084881241281-56ru56i1a47to336ddvl8u55fdakedal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69ytZCCQsHX6Vf6E2E2mb3NGUHwF6AtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084881241281-56ru56i1a47to336ddvl8u55fdakedal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084881241281-l8hiu2a6dvrlli0t2t4rfti4ei65ppne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Sproud.Mooncake"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
